@@ -1,6 +1,6 @@
 # main links links
 main:
-  - title: "Research"
+  - title: "Publications"
     url: /publications/
 
   - title: "Teaching"
@@ -11,3 +11,6 @@ main:
     
   - title: "Guide"
     url: /markdown/
+
+  - title: "Research"
+    url: /work/
