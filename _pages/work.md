@@ -6,7 +6,7 @@ author_profile: true
 --- 
 
 
-## Working Papers 
+## Work in Progress
 
 ### [Long-Term Government Debt and Monetary Policy Transmission in HANK Models](/files/20240222_Draft.pdf)
 
