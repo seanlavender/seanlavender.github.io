@@ -7,12 +7,4 @@ main:
   - title: "Research"
     url: /work/ 
 
-  - #title: "Guide"
-    url: /markdown/ 
-
-  - #title: "Publications"
-    url: /publications/
-
-  - #title: "Teaching"
-    url: /teaching/    
-    
+      
