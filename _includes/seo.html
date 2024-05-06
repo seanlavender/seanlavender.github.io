@@ -9,7 +9,7 @@
 {% if page.title and page.author_profile != true %}
   {% assign seo_title = page.title | append: " " | append: site.title_separator | append: " " | append: site.title %}
 {% elsif page.title and page.author_profile == true %}
-  {% assign seo_title = "Research" %}
+  {% assign seo_title = "Sean Lavender" %}
 {% endif %}
 
 {% if seo_title %}
