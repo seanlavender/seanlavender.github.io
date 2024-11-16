@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a second-year PhD student in economics at the University of Cambridge, where my main advisor is Professor Florin Bilbiie. 
+I am a third-year PhD student in economics at the University of Cambridge, where my supervisor is Professor Florin Bilbiie. 
 
 Research fields: 
 - Monetary Economics 
