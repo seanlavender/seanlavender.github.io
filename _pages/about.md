@@ -9,13 +9,17 @@ redirect_from:
 
 I am a third-year PhD student in economics at the University of Cambridge, where my supervisor is Professor Florin Bilbiie. 
 
-Research fields: 
-- Monetary Economics 
-- Heterogeneous Households.
+My researches focusses on the transmission of monetary and fiscal policy in economies with heterogeneous households. Download a copy of my CV [here](/files/Website_CV.pdf).
 
-Download my CV [here](/files/Website_CV.pdf).
+## Working papers 
 
-## Work in Progress
+### Heterogeneous Monetary Policy Pass-Through to Consumer Credit Along the Income Distribution 
+*with Leonardo Soriano de Alencar and Antonia Tsang* 
+
+Using loan-level data from the Brazilian credit registry, this paper investigates whether the pass-through of monetary policy to consumer credit is heterogeneous along the income distribution. We find three novel results on how monetary policy affects different consumers' credit costs. Firstly, the pass-through of monetary policy to consumer interest rates is stronger for lower-income borrowers than for higher earners. Secondly, we decompose the results into a direct heterogeneity effect and portfolio composition channels. We show that the direct heterogeneity channel is operational, implying that pass-through of monetary policy would still be higher to lower-income individuals even if all borrowers had identical loan portfolios. Thirdly, we show that this pass-through heterogeneity is asymmetric between periods of monetary loosening and tightening. During the post-Covid tightening cycle, the pass-through of monetary policy hikes to consumers' borrowing costs was stronger for individuals with lower incomes. Conversely, during the previous loosening cycle, the pass-through of cuts to lower earners was weaker than for higher earners. These results could therefore shed light on a new channel whereby monetary policy exacerbates inequality through consumers' borrowing costs. 
+
+Draft available soon!
+
 
 ### Long-Term Government Debt and Monetary Policy Transmission in HANK Models
 
