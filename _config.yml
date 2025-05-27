@@ -21,7 +21,7 @@ repository               : "seanlavender/seanlavender.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile3.png"
+  avatar           : "profile3.jpg"
   name             : "Sean Lavender"
   pronouns         : # example: "she/her"  
   bio              : "Economics PhD Student"
