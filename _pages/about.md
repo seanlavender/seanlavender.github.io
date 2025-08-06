@@ -7,9 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a third-year PhD student in economics at the University of Cambridge, where my supervisor is Professor Florin Bilbiie. 
+I am a PhD student in economics at the University of Cambridge, where my supervisor is Professor Florin Bilbiie. 
 
-My researches focusses on the transmission of monetary and fiscal policy in economies with heterogeneous households. Download a copy of my CV [here](/files/Website_CV.pdf).
+For the  2025/26 academic year, I will be a Jane Eliza Procter Fellow at Princeton University. 
+
+My researches focusses on the transmission of monetary and fiscal policy in economies with heterogeneous households. Download a copy of my CV [here](/files/Website_CV_Aug2025.pdf).
 
 ## Working papers 
 
