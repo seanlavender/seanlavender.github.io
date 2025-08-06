@@ -9,9 +9,9 @@ redirect_from:
 
 I am a PhD student in economics at the University of Cambridge, where my supervisor is Professor Florin Bilbiie. 
 
-For the  2025/26 academic year, I will be a Jane Eliza Procter Fellow at Princeton University. 
+For the  2025/26 academic year, I will be visiting Princeton University as a Jane Eliza Procter Fellow. 
 
-My researches focusses on the transmission of monetary and fiscal policy in economies with heterogeneous households. Download a copy of my CV [here](/files/Website_CV_Aug2025.pdf).
+My research focusses on the transmission of monetary and fiscal policy in economies with heterogeneous households. Download a copy of my CV [here](/files/Website_CV_Aug2025.pdf).
 
 ## Working papers 
 
@@ -23,7 +23,9 @@ Using loan-level data from the Brazilian credit registry, this paper investigate
 Draft available soon!
 
 
-### Long-Term Government Debt and Monetary Policy Transmission in HANK Models
+### Long-Term Government Debt and Monetary Policy Transmission in HANK Models 
+
+*NOTE: Superseded by **Fiscal Effects of Monetary Policy in HANK Models** (coming soon!)*.
 
 This paper considers the effect of long-term government debt on the transmission of monetary policy in heterogeneous-agent New Keynesian (HANK) models. The interactions between the maturity composition of government debt and the design of fiscal policy are important determinants of the aggregate and distributional effects of monetary policy. When the maturity of government debt is longer, the fiscal effects of monetary policy can serve to dampen the fall in consumption following a monetary policy contraction. This dampening is most significant when the fiscal rule is more responsive to the level of government debt, and when the tax system is less progressive. 
    
