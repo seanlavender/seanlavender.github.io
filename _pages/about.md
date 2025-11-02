@@ -7,13 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in economics at the University of Cambridge, where my supervisor is Professor Florin Bilbiie. 
+I am a PhD student in Economics at the **University of Cambridge**, where my supervisor is Professor Florin Bilbiie. 
 
-For the  2025/26 academic year, I will be visiting Princeton University as a Jane Eliza Procter Fellow. 
+For the  2025/26 academic year, I will be visiting **Princeton University** as a Jane Eliza Procter Fellow. 
 
 My research focusses on the transmission of monetary and fiscal policy in economies with heterogeneous households. Download a copy of my CV [here](/files/Website_CV_Nov2025.pdf).
 
-## Working papers 
+## Research in Progress 
 
 ### Heterogeneous Monetary Policy Pass-Through to Consumer Credit Along the Income Distribution 
 *with Leonardo Soriano de Alencar and [Antonia Tsang](https://antoniatsang.github.io)* 
@@ -49,4 +49,4 @@ either. We propose two parametric functional forms where complementarity and the
 income effect are arbitrary and can be calibrated separately: a quasi-separable “GHHCRRA”
 utility and a “CCRRA” (constant complementarity and RRA) function. 
 
-Working paper available as [CEPR DP 20804](https://cepr.org/publications/dp20804).
+*Working paper available as [CEPR DP 20804](https://cepr.org/publications/dp20804)*.
