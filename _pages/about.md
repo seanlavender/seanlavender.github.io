@@ -11,7 +11,7 @@ I am a PhD student in economics at the University of Cambridge, where my supervi
 
 For the  2025/26 academic year, I will be visiting Princeton University as a Jane Eliza Procter Fellow. 
 
-My research focusses on the transmission of monetary and fiscal policy in economies with heterogeneous households. Download a copy of my CV [here](/files/Website_CV_Aug2025.pdf).
+My research focusses on the transmission of monetary and fiscal policy in economies with heterogeneous households. Download a copy of my CV [here](/files/Website_CV_Nov2025.pdf).
 
 ## Working papers 
 
@@ -23,10 +23,30 @@ Using loan-level data from the Brazilian credit registry, this paper investigate
 Draft available soon!
 
 
-### Long-Term Government Debt and Monetary Policy Transmission in HANK Models 
+### Government Debt and the Fiscal Channels of Monetary Policy in HANK Models
 
-*NOTE: Superseded by **Government Debt and the Fiscal Effects of Monetary Policy in HANK Models** (coming soon!)*.
+This paper uses a tractable HANK model to show that the fiscal channels of monetary policy are determined by the interactions between the magnitude and composition of government debt, the choice of fiscal rule, the progressivity of the marginal fiscal instrument, and the distribution of government debt ownership. This means that the design of fiscal policy and the characteristics of government debt can drive significant differences in monetary transmission within and across countries with different fiscal contexts, and across models with different fiscal specifications. For a given fiscal context observed in the data, and for a given fiscal specification used in the HANK literature, the flexible analytical framework developed in this paper shows and explains the magnitude of the fiscal channels of monetary policy. 
 
-This paper considers the effect of long-term government debt on the transmission of monetary policy in heterogeneous-agent New Keynesian (HANK) models. The interactions between the maturity composition of government debt and the design of fiscal policy are important determinants of the aggregate and distributional effects of monetary policy. When the maturity of government debt is longer, the fiscal effects of monetary policy can serve to dampen the fall in consumption following a monetary policy contraction. This dampening is most significant when the fiscal rule is more responsive to the level of government debt, and when the tax system is less progressive. 
-   
-Download a preliminary draft [here](/files/draft_25042024.pdf).
+Draft available soon! 
+
+*Supersedes ['Long-Term Government Debt and Monetary Policy in HANK Models'](/files/draft_25042024.pdf).*
+
+### Complementarity, Heterogeneity, and Multipliers: Utility for HANK
+*with Florin Bilbiie and Fergal Hanks* 
+
+Complementarity (between consumption and work) is essential for heterogeneous agent
+models’ ability to generate realistic “multiplier” effects for aggregate demand
+shocks, while at the same time avoiding puzzling predictions. We show how parameterizing
+complementarity—in the spirit of Frisch’s “utility acceleration”—separately
+from income effects is needed to achieve this. HANK models with complementarity
+can then deliver realistic fiscal multipliers while at the same time resolving both a
+“trilemma” (matching MPEs and MPCs) and a catch-22 “dilemma” (simultaneously
+resolving the forward guidance puzzle) emphasized in the literature. We prove this
+analytically in a tractable HANK model and illustrate it in a calibrated quantitative
+HANK model. Yet existing utility functions restrict either complementarity, or income
+effects—or both—and artificially imply that multipliers are exclusively a function of
+either. We propose two parametric functional forms where complementarity and the
+income effect are arbitrary and can be calibrated separately: a quasi-separable “GHHCRRA”
+utility and a “CCRRA” (constant complementarity and RRA) function. 
+
+Working paper available as [CEPR DP 20804](https://cepr.org/publications/dp20804).
