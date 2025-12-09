@@ -9,7 +9,7 @@ redirect_from:
 
 I am a PhD student in Economics at the **University of Cambridge**, where my supervisor is Professor Florin Bilbiie. 
 
-For the  2025/26 academic year, I will be visiting **Princeton University** as a Jane Eliza Procter Fellow. 
+For the  2025/26 academic year, I am visiting **Princeton University** as a Jane Eliza Procter Fellow. 
 
 My research focusses on the transmission of monetary and fiscal policy in economies with heterogeneous households. Download a copy of my CV [here](/files/Website_CV_Nov2025.pdf).
 
@@ -29,7 +29,7 @@ This paper uses a tractable HANK model to show that the fiscal channels of monet
 
 Draft available soon! 
 
-*Supersedes ['Long-Term Government Debt and Monetary Policy in HANK Models'](/files/draft_25042024.pdf).*
+*Supersedes 'Long-Term Government Debt and Monetary Policy in HANK Models'.*
 
 ### Complementarity, Heterogeneity, and Multipliers: Utility for HANK
 *with Florin Bilbiie and Fergal Hanks* 
