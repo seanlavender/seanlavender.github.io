@@ -13,7 +13,16 @@ For the  2025/26 academic year, I am visiting **Princeton University** as a Jane
 
 My research focusses on the transmission of monetary and fiscal policy in economies with heterogeneous households. Download a copy of my CV [here](/files/Website_CV_Nov2025.pdf).
 
-## Research in Progress 
+## Working Papers 
+
+### Government Debt and the Fiscal Channels of Monetary Policy in HANK Models
+
+This paper uses a tractable HANK model to show how the design of fiscal policy and the characteristics of government debt can drive significant differences in monetary transmission within and across countries with different fiscal contexts, and across models with different fiscal specifications. The analytical results show that the fiscal channels can be expressed as the sum of a *debt service channel*, a *debt composition channel*, and a *fiscal cyclicality channel*. The magnitudes and directions of these channels are determined by the interactions between the size and composition of government debt, the choice of fiscal rule, the progressivity of the marginal fiscal instrument, and the distribution of government debt ownership. For a given fiscal block used in a theoretical model, or for
+any fiscal context observed in the data, the flexible model can be used to show when and how the fiscal channels affect monetary transmission.
+
+Draft available soon! 
+
+*Supersedes 'Long-Term Government Debt and Monetary Policy in HANK Models'.*
 
 ### Heterogeneous Monetary Policy Pass-Through to Consumer Credit Along the Income Distribution 
 *with Leonardo Soriano de Alencar and [Antonia Tsang](https://antoniatsang.github.io)* 
@@ -22,17 +31,8 @@ Using loan-level data from the Brazilian credit registry, this paper investigate
 
 Draft available soon!
 
-
-### Government Debt and the Fiscal Channels of Monetary Policy in HANK Models
-
-This paper uses a tractable HANK model to show that the fiscal channels of monetary policy are determined by the interactions between the magnitude and composition of government debt, the choice of fiscal rule, the progressivity of the marginal fiscal instrument, and the distribution of government debt ownership. This means that the design of fiscal policy and the characteristics of government debt can drive significant differences in monetary transmission within and across countries with different fiscal contexts, and across models with different fiscal specifications. For a given fiscal context observed in the data, and for a given fiscal specification used in the HANK literature, the flexible analytical framework developed in this paper shows and explains the magnitude of the fiscal channels of monetary policy. 
-
-Draft available soon! 
-
-*Supersedes 'Long-Term Government Debt and Monetary Policy in HANK Models'.*
-
 ### Complementarity, Heterogeneity, and Multipliers: Utility for HANK
-*with Florin Bilbiie and Fergal Hanks* 
+*with [Florin Bilbiie](https://sites.google.com/site/florinbilbiie/home) and [Fergal Hanks](https://hanksf.github.io/)* 
 
 Complementarity (between consumption and work) is essential for heterogeneous agent
 models’ ability to generate realistic “multiplier” effects for aggregate demand
