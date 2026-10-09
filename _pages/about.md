@@ -11,7 +11,9 @@ Welcome to my website!
 
 I am a 5th-year PhD student in Economics at the **University of Cambridge**, where my supervisor is Professor Florin Bilbiie. 
 
-Since the beginning of the 2026/27 academic year, I have been a Junior Research Fellow at New College and an associate member of the Department of Economics at the **University of Oxford**. I previously spent the 2025/26 academic year visiting **Princeton University** as a Jane Eliza Procter Fellow. 
+Since the start of the 2026/27 academic year, I have been a Junior Research Fellow at New College and an associate member of the Department of Economics at the **University of Oxford**. 
+
+I previously spent the 2025/26 academic year visiting **Princeton University** as a Jane Eliza Procter Fellow. 
 
 My research focusses on the transmission of monetary and fiscal policy in economies with heterogeneous households. Download a copy of my CV [here](/files/Website_CV_Oct2026.pdf).
 
