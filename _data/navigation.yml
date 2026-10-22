@@ -1,2 +1,4 @@
-# The current website is a single homepage with an inline CV download.
-main: []
+# Main navigation links to sections on the homepage.
+main:
+  - title: "Research"
+    url: /#working-papers

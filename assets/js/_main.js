@@ -64,8 +64,8 @@ $(document).ready(function(){
     $(".author__urls-wrapper button").toggleClass("open");
   });
 
-  // init smooth scroll, this needs to be slightly more than then fixed masthead height
-  $("a").smoothScroll({offset: -65});
+  // Leave room for the fixed 70px masthead and a 20px gap.
+  $("a").smoothScroll({offset: -90});
 
   // add lightbox class to all image links
   $("a[href$='.jpg'],a[href$='.jpeg'],a[href$='.JPG'],a[href$='.png'],a[href$='.gif']").addClass("image-popup");

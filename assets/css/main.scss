@@ -55,6 +55,7 @@ $site-accent-blue: #002147;
 .page__content #working-papers {
   color: $site-accent-blue;
   border-bottom: 2px solid $site-accent-blue;
+  scroll-margin-top: $masthead-height + 20px;
 }
 
 .author__avatar img {
