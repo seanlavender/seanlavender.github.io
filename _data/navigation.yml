@@ -1,10 +1,2 @@
-# main links links
-main:
-  
-  #- title: "CV"
-    url: /cv/
-    
-  #- title: "Research"
-    url: /work/ 
-
-      
+# The current website is a single homepage with an inline CV download.
+main: []

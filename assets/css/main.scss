@@ -39,3 +39,164 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+$site-accent-blue: #3c5068;
+
+.sidebar .author__name,
+.masthead__menu-item--lg > a {
+  color: $site-accent-blue;
+}
+
+.masthead__menu-item--lg > a:hover,
+.masthead__menu-item--lg > a:focus {
+  color: $site-accent-blue;
+}
+
+.page__content #working-papers {
+  color: $site-accent-blue;
+  border-bottom: 2px solid $site-accent-blue;
+}
+
+.author__avatar img {
+  border-radius: 0;
+}
+
+/* Give the homepage text more room beside the author sidebar. */
+.page--home {
+  @include breakpoint($large) {
+    padding-right: 2%;
+  }
+}
+
+/* Muted adaptations of the universities' brand colours. */
+.page__content a.cambridge-link {
+  color: #52796f;
+}
+
+.page__content a.oxford-link,
+.page__content .coauthor {
+  color: $site-accent-blue;
+}
+
+.page__content a.princeton-link {
+  color: #a65f2e;
+}
+
+.page__content a.cambridge-link,
+.page__content a.oxford-link,
+.page__content a.princeton-link,
+.page__content a.coauthor {
+  text-decoration: none;
+
+  &:hover,
+  &:focus {
+    text-decoration: none;
+  }
+}
+
+/* Shared controls keep paper links aligned with abstract buttons. */
+$paper-button-font-size: 0.8;
+$abstract-button-width: 7.5em;
+
+.paper-abstract > summary,
+.page__content a.paper-link {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.65em;
+    min-height: 40px;
+    padding: 0.5em 1em;
+    border: 1px solid mix(#000, $link-color, 25%);
+    border-radius: 6px;
+    background-color: mix(#fff, $link-color, 90%);
+    box-shadow: 0 1px 2px rgba(#000, 0.08);
+    color: mix(#000, $link-color, 45%);
+    font-size: $paper-button-font-size * 1em;
+    font-weight: 600;
+    line-height: 1.3;
+    text-decoration: none;
+    cursor: pointer;
+
+    &:hover {
+      background-color: mix(#fff, $link-color, 80%);
+      text-decoration: none;
+    }
+
+    &:focus-visible {
+      outline: 2px solid $link-color-hover;
+      outline-offset: 3px;
+    }
+}
+
+/* Expandable paper abstracts */
+.paper-abstract {
+  display: block;
+  width: 100%;
+  max-width: none;
+  margin-bottom: 1em;
+
+  > summary {
+    width: $abstract-button-width;
+    list-style: none;
+
+    &::-webkit-details-marker {
+      display: none;
+    }
+
+    &::after {
+      content: "";
+      width: 0.45em;
+      height: 0.45em;
+      border-right: 2px solid currentColor;
+      border-bottom: 2px solid currentColor;
+      transform: translateY(-0.12em) rotate(45deg);
+    }
+  }
+
+  &[open] > summary {
+    margin-bottom: 0.85em;
+
+    &::after {
+      transform: translateY(0.12em) rotate(225deg);
+    }
+  }
+
+  > p {
+    width: 100%;
+    max-width: none;
+    line-height: 1.6;
+  }
+}
+
+.paper-actions {
+  display: grid;
+  // The first track matches the summary width at its smaller font size.
+  grid-template-columns: ($abstract-button-width * $paper-button-font-size) minmax(0, 1fr);
+  column-gap: 0.6em;
+  align-items: start;
+
+  > .paper-abstract {
+    grid-column: 1 / -1;
+    grid-row: 1;
+  }
+
+  > .paper-download {
+    grid-column: 2;
+    grid-row: 1;
+    justify-self: start;
+    max-width: 100%;
+    z-index: 1;
+  }
+
+  .paper-link {
+    max-width: 100%;
+    white-space: nowrap;
+  }
+
+  @include breakpoint(max-width 360px) {
+    display: block;
+
+    > .paper-abstract {
+      margin-bottom: 0.6em;
+    }
+  }
+}
