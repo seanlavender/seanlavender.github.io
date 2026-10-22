@@ -40,7 +40,7 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
-$site-accent-blue: #3c5068;
+$site-accent-blue: #002147;
 
 .sidebar .author__name,
 .masthead__menu-item--lg > a {
@@ -68,18 +68,20 @@ $site-accent-blue: #3c5068;
   }
 }
 
-/* Muted adaptations of the universities' brand colours. */
+/* University colours, with Cambridge Blue darkened for contrast on white. */
 .page__content a.cambridge-link {
-  color: #52796f;
+  color: #4c7e76;
 }
 
 .page__content a.oxford-link,
-.page__content .coauthor {
+.page__content .coauthor,
+.page__content a.cv-link,
+.author__urls a.cv-link {
   color: $site-accent-blue;
 }
 
 .page__content a.princeton-link {
-  color: #a65f2e;
+  color: #e77500;
 }
 
 .page__content a.cambridge-link,

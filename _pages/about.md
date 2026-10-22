@@ -17,7 +17,7 @@ Since the start of the 2026/27 academic year, I have been a Junior Research Fell
 
 I previously spent the 2025/26 academic year visiting <a class="princeton-link" href="https://www.henry-procter-choate.fund.cam.ac.uk/procter-fund"><strong>Princeton University</strong></a> as a Jane Eliza Procter Fellow.
 
-[Download a copy of my CV.](/files/Website_CV_Oct2026.pdf)
+<a class="cv-link" href="/files/Website_CV_Oct2026.pdf">Download a copy of my CV.</a>
 
 ## Working Papers 
 
