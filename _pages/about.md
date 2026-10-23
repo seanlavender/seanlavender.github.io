@@ -21,8 +21,9 @@ I previously spent the 2025/26 academic year visiting <a class="princeton-link" 
 
 ## Working Papers 
 
-### Government Debt and the Fiscal Channels of Monetary Policy 
+### <span class="paper-update">NEW DRAFT!</span> Government Debt and the Fiscal Channels of Monetary Policy {#government-debt-and-the-fiscal-channels-of-monetary-policy}
 
+<div class="paper-actions" markdown="1">
 <details class="paper-abstract" markdown="1">
 <summary>Abstract</summary>
 
@@ -30,7 +31,8 @@ This paper shows how the design of fiscal policy and the characteristics of gove
 
 </details>
 
-Draft available soon! 
+<div class="paper-download" markdown="0"><a class="paper-link" href="https://www.janeway.econ.cam.ac.uk/publication/jiwp2640">Janeway Institute Working Paper</a></div>
+</div>
 
 
 ### Inequality in the Consumer Lending Channel of Monetary Policy 

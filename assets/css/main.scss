@@ -98,6 +98,13 @@ $site-accent-blue: #002147;
 }
 
 /* Shared controls keep paper links aligned with abstract buttons. */
+.paper-update {
+  margin-right: 0.45em;
+  color: #00bdb6;
+  font-weight: 400;
+  white-space: nowrap;
+}
+
 $paper-button-font-size: 0.8;
 $abstract-button-width: 7.5em;
 
